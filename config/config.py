@@ -1,9 +1,9 @@
-BOT_TOKEN: str = "OTM5ODk0ODA1NTI0Mjc5MzU2.Yf_fQA.5n7OTbAfSzwet8ZYg1YiwpZaNSg"
+BOT_TOKEN: str = "OTk2NDY3NzYxNDgyMDM5NDA3.GfTSS9.FLUlPOTLnrQ4nC9tc6M6ksNtAUwBeDvshfIYiw"
 SPOTIFY_ID: str = "cb3491462f9f4c30955ab05242f8a1c5"
 SPOTIFY_SECRET: str = "ccd5117e78c54fe8addf3dce2a9a14e3"
 
 BOT_PREFIX = "re!"
-DEFAULT_NICKNAME = "{Reese}"
+DEFAULT_NICKNAME = "{Reece}"
 
 BUTTON_NAME = ""
 EMBED_COLOR = 0x800080  #replace afer'0x' with desired hex code ex. '#ff0188' >> '0xff0188'
